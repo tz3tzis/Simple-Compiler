@@ -1,0 +1,44 @@
+program myprog
+{
+	var inr , x ;
+	procedure tyxaionoma (in b , inout e )
+	{
+		if ( a = 3 )
+		{
+			
+
+			b := 7 * 3 * 65 ;
+			a := 2 + 3 ;
+				
+			b := 12 + 3  ;
+		
+		
+		}
+		else
+		{
+			a := 2 + 3 ;
+			print ( metafrastes )
+		};
+		while ( d = 100 ) {
+			
+			q := 1 + 2 ;
+			
+		};
+
+		if ( a = 3 and  b = 4 )
+		{
+			
+			b := 7 * 3 * 65 ;
+			a := 2 + 3 ;
+			
+			call thisone ( inout x )  ; 
+		 
+			return ( x )
+			
+		
+		}
+		
+
+	}
+	
+}
